@@ -4,6 +4,7 @@
 
 const express = require('express');
 const requestProxy = require('express-request-proxy');
+require('dotenv').config();
 
 // INSTANTIATION //
 

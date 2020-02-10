@@ -4,7 +4,7 @@
 var mapOptions = {
   zoom: 12,
   styles: '#',
-  center: new google.maps.LatLng(47.618217, -122.351832),
+  center: new google.maps.LatLng(36.114647, -115.172813),
   mapTypeId: google.maps.MapTypeId.STREET,
   zoomControl: true,
   zoomControlOptions: {
